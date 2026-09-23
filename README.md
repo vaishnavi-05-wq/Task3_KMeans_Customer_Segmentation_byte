@@ -15,6 +15,19 @@ Age
 The project follows a complete machine learning workflow:
 
 Dataset -> Data Inspection -> Data Cleaning -> Feature Scaling -> K Selection -> K-Means Training -> Cluster Analysis -> Business Recommendations
+## 🚀 Live Demo
+
+The deployed Streamlit application is available here:
+
+👉 [Open Customer Segmentation Live Demo](https://vaishnavi-05-wq-task3-kmeans-customer-segmentation-b-app-przvys.streamlit.app/)
+
+The live application allows users to:
+
+- Enter Annual Income (k$)
+- Enter Spending Score (1-100)
+- Predict the customer's K-Means cluster
+- View cluster-level customer statistics
+- Understand the identified customer segment
 
 2. Dataset
 
