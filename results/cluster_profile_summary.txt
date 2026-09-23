@@ -1,0 +1,107 @@
+CUSTOMER SEGMENTATION — BUSINESS PROFILE
+=========================================
+
+Model:
+K-Means clustering with K=5.
+
+The clusters were interpreted using customer age, annual income,
+and spending score.
+
+CLUSTER 0 — LOW INCOME / LOW SPENDING
+--------------------------------------
+Customer Count: 81
+Average Age: 42.72
+Average Income: 55.30 k$
+Average Spending Score: 49.52
+
+Business Profile:
+This is the largest customer segment. Customers have relatively
+lower average income and lower spending compared with the
+higher-income/high-spending segment.
+
+Potential Business Approach:
+Use value-oriented products, regular promotions, and retention
+campaigns to maintain engagement.
+
+
+CLUSTER 1 — HIGH INCOME / HIGH SPENDING
+----------------------------------------
+Customer Count: 39
+Average Age: 32.69
+Average Income: 86.54 k$
+Average Spending Score: 82.13
+
+Business Profile:
+These customers have high average income and high spending scores.
+They represent a customer segment with strong purchasing activity.
+
+Potential Business Approach:
+Consider premium products, personalized offers, loyalty programs,
+and targeted campaigns.
+
+
+CLUSTER 2 — LOW INCOME / HIGH SPENDING
+---------------------------------------
+Customer Count: 22
+Average Age: 25.27
+Average Income: 25.73 k$
+Average Spending Score: 79.36
+
+Business Profile:
+These customers have relatively low income but high spending scores.
+They show strong engagement despite lower average income.
+
+Potential Business Approach:
+Use affordable premium-looking products, targeted promotions,
+bundles, and loyalty incentives.
+
+
+CLUSTER 3 — HIGH INCOME / LOW SPENDING
+---------------------------------------
+Customer Count: 35
+Average Age: 41.11
+Average Income: 88.20 k$
+Average Spending Score: 17.11
+
+Business Profile:
+These customers have high average income but a low spending score.
+They may represent customers with purchasing capacity but relatively
+low engagement with the available products.
+
+Potential Business Approach:
+Use personalized recommendations, targeted campaigns, and
+customer-engagement offers.
+
+
+CLUSTER 4 — LOW INCOME / LOW SPENDING
+--------------------------------------
+Customer Count: 23
+Average Age: 45.22
+Average Income: 26.30 k$
+Average Spending Score: 20.91
+
+Business Profile:
+These customers have low average income and low spending scores.
+They form a smaller low-income, low-spending segment distinct from
+Cluster 0.
+
+Potential Business Approach:
+Focus on value-oriented products, discounts, and retention
+strategies appropriate for price-sensitive customers.
+
+
+ACTIONABLE BUSINESS RECOMMENDATIONS
+===================================
+
+1. Premium Customer Strategy:
+   Target Cluster 1 with premium products, personalized
+   recommendations, loyalty benefits, and exclusive campaigns.
+
+2. Engagement Strategy:
+   Target Cluster 3 with personalized promotions and
+   recommendation-based campaigns to encourage higher spending.
+
+3. Value and Retention Strategy:
+   Target Clusters 0, 2, and 4 with appropriate value-oriented
+   offers, bundles, discounts, and loyalty incentives based on
+   their spending behavior.
